@@ -1,0 +1,3 @@
+= eagle-lib
+
+link:datasheets/MP1584.adoc[MP1584] - Adjustable DC/DC Buck Converter 3A
